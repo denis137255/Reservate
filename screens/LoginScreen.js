@@ -14,7 +14,7 @@ const LoginScreen = ({ onLogin }) => {
   return (
     <View style={styles.container}>
         <Text style={styles.title}>Reservate</Text>
-        <Text style={styles.subtitle}>Your App Slogan Goes Here</Text>
+        <Text style={styles.subtitle}>Something to do here</Text>
         <Button title="Log In" onPress={handleLogin} />
 </View>
   );
